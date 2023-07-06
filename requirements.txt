@@ -1,0 +1,6 @@
+gradio
+numpy
+pandas
+GoogleNews
+newspaper3k
+nltk

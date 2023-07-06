@@ -10,7 +10,7 @@ The main objective of this project is to create a powerful sentiment analysis to
 ### Front-end Development
 The front-end development was carried out using SwiftUI, a modern and versatile framework for building captivating user interfaces in iOS applications. SwiftUI allowed me to craft visually appealing screens and create a seamless integration with the application's underlying functionality. The result is an interface that is both aesthetically pleasing and user-friendly.
 
-### Back-end Implementation**
+### Back-end Implementation
 The back-end of the application was implemented in Python, leveraging its extensive ecosystem of libraries and tools. I utilized Python's NLTK library for robust natural language processing and Flask framework for constructing the REST API. These technologies facilitated efficient data processing and analysis, enabling the application to handle large volumes of financial news articles gathered through web scraping techniques.
 
 ### Real-time Sentiment Analysis

@@ -19,4 +19,10 @@ The application utilizes sentiment analysis algorithms to assess the sentiment a
 ## Advanced Functionality
 The application offers advanced features such as customizable preferences, allowing users to track sentiment trends for specific financial assets or market sectors. Additionally, users can opt to receive notifications for significant changes in sentiment or important news updates, ensuring they stay informed about the latest market developments.
 
+## Pictures
+<img width="315" alt="image" src="https://github.com/phadke555/MarketPulse/assets/118079186/e5a945b0-5268-4338-8558-1df579d089f0">
+<img width="326" alt="image" src="https://github.com/phadke555/MarketPulse/assets/118079186/741a3ddb-3566-4953-9c6a-ebec13439512">
+<img width="318" alt="image" src="https://github.com/phadke555/MarketPulse/assets/118079186/ed740df8-e15d-4b8e-83f7-e0411d77a55b">
+
+
 
